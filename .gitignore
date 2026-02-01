@@ -1,0 +1,16 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Build artifacts
+build/
+build2/
+libdeps/
+libdeps2/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
